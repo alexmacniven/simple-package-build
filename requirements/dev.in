@@ -1,0 +1,6 @@
+build
+pytest
+pytest-mock
+black
+flake8
+twine
